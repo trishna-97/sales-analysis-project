@@ -8,7 +8,7 @@ It includes SQL queries, PowerPoint presentation, and a walkthrough video.
 
 ## 📂 Project Files
 - 📊 [Dataset (CSV)] (https://github.com/trishna-97/sales-analysis-project/blob/main/Sample%20-%20Superstore.csv)
-- 📑 [Presentation (PPTX)]
+- 📑 [Presentation (PPTX)](https://github.com/trishna-97/sales-analysis-project/blob/main/SQL%20project%20on%20Superstore%20Sales%20Analysis.pptx)
 - 🎥 [Project Video (Google Drive)] 
 
 ---
